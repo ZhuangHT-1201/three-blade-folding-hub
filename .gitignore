@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+_extract/
+src/stl/
+src/pts_bytes.npy
+src/layout_grid.npy
+src/*_log.txt
+CAD/assembly_*.step
+CAD/*.FCBak
+~$*.docx
